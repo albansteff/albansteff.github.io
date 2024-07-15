@@ -1,8 +1,6 @@
----
 layout: page
-title: "PAGE-TITLE??"
+title: "subpage.md"
 permalink: /subpage
---- 
 
 ## This is a subpage !
 
