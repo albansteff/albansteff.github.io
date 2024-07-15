@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Main title
 
 ## Interrogations
@@ -8,7 +12,7 @@ Try out [this link](https://www.deepl.com/fr/translator?referrer=https%3A%2F%2Fw
 
 ## Another page ?
 
-Check out this [hidden page](https://albans98.github.io/subpage){:target="_blank"} !
+Check out this [hidden page](https://albansteff.github.io/subpage){:target="_blank"} !
 
 ## What's next ?
 
