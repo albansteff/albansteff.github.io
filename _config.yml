@@ -4,3 +4,7 @@ plugins:
 
 title: Alban Steff - Data Science projects
 description: A selection of wonderful projects.
+
+markdown: kramdown
+kramdown:
+    math_engine: katex
