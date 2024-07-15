@@ -8,7 +8,9 @@
 
 # Welcome to my website
 
-$Y=\beta_0 + X_1*\beta_1 + X_2*\beta_2 + X_3*\beta_3 + \epsilon$
+$$
+Y=\beta_0 + X_1*\beta_1 + X_2*\beta_2 + X_3*\beta_3 + \epsilon
+$$
 
 ## Curriculum Vitae
 
