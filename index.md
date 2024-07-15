@@ -6,6 +6,10 @@ Can markdown be turned to github pages ?
 
 Try out [this link](https://www.deepl.com/fr/translator?referrer=https%3A%2F%2Fwww.google.com%2F) for crazy translations.
 
+## Another page ?
+
+Check out this [hidden page](https://albans98.github.io/subpage) !
+
 ## What's next ?
 
 - Step 1
