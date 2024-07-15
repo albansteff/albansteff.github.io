@@ -18,7 +18,7 @@ Coming soon ...
 
 ## Kaggle Journey
 
-Check out this [project page](https://albansteff.github.io/subpage){:target="_blank"} !
+Check out this [project page](https://albansteff.github.io/subpage) !
 
 ## What's next ?
 
