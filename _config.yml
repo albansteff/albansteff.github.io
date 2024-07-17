@@ -1,9 +1,16 @@
 title: Alban Steff - Data Science projects
 description: A selection of wonderful projects.
 
-show_downloads: true
+online_presence:
+  show_online_presence: true
+  kaggle_url: 
+  linkedin_url: 
+
 github:
   is_project_page: true
   repository_url: https://github.com/albansteff/albansteff.github.io/
+  repository_name: albansteff.github.io
+  owner_name: Alban Steff
+  owner_url: https://github.com/albansteff/
   
 theme: jekyll-theme-cayman
