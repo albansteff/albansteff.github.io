@@ -17,8 +17,8 @@ What about you ?
 
 ## Blog Posts
 
-* [Sequence-to-Sequence Learning](https://github.com/bentrevett/pytorch-seq2seq/blob/main/1%20-%20Sequence%20to%20Sequence%20Learning%20with%20Neural%20Networks.ipynb)
-* Check out this [project page](https://albansteff.github.io/subpage) !
+* [Sequence-to-Sequence Learning]((https://albansteff.github.io/sequencelearning))
+* More to come ...
 
 ## What's next ?
 
