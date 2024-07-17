@@ -2,5 +2,8 @@ title: Alban Steff - Data Science projects
 description: A selection of wonderful projects.
 
 show_downloads: true
-google_analytics:
+github:
+  is_project_page: true
+  repository_url: https://github.com/albansteff/albansteff.github.io/
+  
 theme: jekyll-theme-cayman
