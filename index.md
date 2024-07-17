@@ -7,17 +7,13 @@
 
 ## About me
 
-My favourite equation :
-
-$$
-Y=\beta_0 + X_1*\beta_1 + X_2*\beta_2 + X_3*\beta_3 + \epsilon
-$$
+My favourite model is : $Y=\beta_0 + X_1*\beta_1 + X_2*\beta_2 + X_3*\beta_3 + \epsilon$
 
 What about you ?
 
 ## Blog Posts
 
-* [Sequence-to-Sequence Learning]((https://albansteff.github.io/sequencelearning))
+* [Sequence-to-Sequence Learning](https://albansteff.github.io/sequencelearning)
 * More to come ...
 
 ## What's next ?
