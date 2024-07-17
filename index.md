@@ -14,6 +14,7 @@ What about you ?
 ## Blog Posts
 
 * [Sequence-to-Sequence Learning](https://albansteff.github.io/sequencelearning)
+* [Kaggle Enefit - Predict Energy Behaviour of Prosumers](https://www.kaggle.com/code/albansteff/enefit-estonian-holidays-lb-65-79)
 * More to come ...
 
 ## What's next ?
