@@ -1,6 +1,6 @@
 ---
 
-# My favourite online resources for Machine & Deep Learning
+## My favourite online resources for Machine & Deep Learning
 
 - [Dive into Deep Learning](https://d2l.ai/index.html){:target="_blank"}
 - [Papers with code - State of the Art](https://paperswithcode.com/sota){:target="_blank"}
