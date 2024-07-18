@@ -18,6 +18,8 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <a href="https://albansteff.github.io/" class="btn">Home</a>
+      <a href="https://albansteff.github.io/blogposts" class="btn">Blog Posts</a>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" target="_blank" class="btn">View on GitHub</a>
       {% endif %}
@@ -25,6 +27,7 @@
         <a href="{{ site.online_presence.kaggle_url }}" target="_blank" class="btn">Kaggle Profile</a>
         <a href="{{ site.online_presence.linkedin_url }}" target="_blank" class="btn">LinkedIn Profile</a>
       {% endif %}
+      <a href="https://albansteff.github.io/books" class="btn">DL/ML Books</a>
     </header>
 
     <main id="content" class="main-content" role="main">
