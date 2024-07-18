@@ -40,7 +40,7 @@ I currently work at Artelys to bring Data Science consultancy services to a wide
 * **IFSBM - Biomedical degree**
 
 ## Online Certifications
-* [AI Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/SVJ9B9AEL98Z)
-* [Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CNC9W84EDD29)
+* [AI Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/SVJ9B9AEL98Z){:target="_blank"}
+* [Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CNC9W84EDD29){:target="_blank"}
 
-*Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/alban-steff-260ab715b/) and have a chat !*
+*Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/alban-steff-260ab715b/){:target="_blank"} and have a chat !*
