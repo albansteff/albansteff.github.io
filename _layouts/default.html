@@ -20,12 +20,12 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <a href="https://albansteff.github.io/" class="btn">Home</a>
       <a href="https://albansteff.github.io/blogposts" class="btn">Blog Posts</a>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" target="_blank" class="btn">View on GitHub</a>
-      {% endif %}
       {% if site.online_presence.show_online_presence %}
         <a href="{{ site.online_presence.kaggle_url }}" target="_blank" class="btn">Kaggle Profile</a>
         <a href="{{ site.online_presence.linkedin_url }}" target="_blank" class="btn">LinkedIn Profile</a>
+      {% endif %}
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" target="_blank" class="btn">GitHub Profile</a>
       {% endif %}
       <a href="https://albansteff.github.io/books" class="btn">DL/ML Books</a>
     </header>
