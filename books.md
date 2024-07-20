@@ -4,7 +4,7 @@
 
 - [Dive into Deep Learning](https://d2l.ai/index.html){:target="_blank"}
 - [Papers with code - State of the Art](https://paperswithcode.com/sota){:target="_blank"}
-- [Deep Learning for Causal Inference](https://osf.io/preprints/socarxiv/aeszf)
+- [Deep Learning for Causal Inference](https://osf.io/preprints/socarxiv/aeszf){:target="_blank"}
 - [CentraleSupelec courses](https://sdi.metz.centralesupelec.fr/spip.php?rubrique2){:target="_blank"}
 - [Institut Polytechnique de Paris Deep Learning course](https://github.com/m2dsupsdlclass/lectures-labs/){:target="_blank"}
 - [MIT Deep Learning book](https://www.deeplearningbook.org/){:target="_blank"}
