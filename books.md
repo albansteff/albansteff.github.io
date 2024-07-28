@@ -13,3 +13,4 @@
 - [Dataiku Machine Learning methodology](https://s3.amazonaws.com/primeglobal-assets/downloads/200623-ML-basics-DATAIKU_jfpansard.pdf){:target="_blank"}
 - [Understanding Deep Learning book](https://udlbook.github.io/udlbook/){:target="_blank"}
 - [Introduction to statistical learning](https://www.statlearning.com/){:target="_blank"}
+- [Transformers Explained](https://www.youtube.com/watch?v=TQQlZhbC5ps&ab_channel=CodeEmporium){:target="_blank"}
