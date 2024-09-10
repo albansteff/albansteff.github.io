@@ -15,3 +15,4 @@
 - [Introduction to statistical learning](https://www.statlearning.com/){:target="_blank"}
 - [Transformers Explained](https://www.youtube.com/watch?v=TQQlZhbC5ps&ab_channel=CodeEmporium){:target="_blank"}
 - [Heureka - Electricity Markets](https://youtu.be/ienoSbONyhw?si=cmOLLvH-ItgyihjB){:target="_blank"}
+- [Applied ML in R](https://therbootcamp.github.io/AML_2020AMLD/){:target="_blank"}
